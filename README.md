@@ -2,7 +2,7 @@
 
 ![Header image](https://github.com/user-attachments/assets/ce8a1b15-afb7-466b-a67c-d090f4156e23)
 
-### Flutter Developer | Mobile App Engineer
+### Flutter Developer | Mobile App Engineer 📱
 
 I'm a dedicated **Flutter Developer with 2+ years of experience** building high-performance, user-friendly mobile applications for **Android, iOS, and Web**.  
 I care a lot about **clean architecture, scalable code, and great UX**, and I enjoy using **AI tools** to improve development workflows.
@@ -38,13 +38,13 @@ I care a lot about **clean architecture, scalable code, and great UX**, and I en
 
 ### 📱 Ana-Za  
 A digital business card app that replaces traditional paper cards with dynamic, interactive profiles.  
-🔗 [App Store](https://apps.apple.com/us/app/anaza/id6755936608) | [Play Store](https://play.google.com/store/apps/details?id=com.qabed.anaza)
+📱 [App Store](https://apps.apple.com/us/app/anaza/id6755936608) | [Play Store](https://play.google.com/store/apps/details?id=com.qabed.anaza)
 
 ---
 
 ### 📖 Suhuf – صحف  
 An Islamic application for **reading, listening, and memorizing the Holy Quran** with a smooth and accessible UI.  
-🔗 [App Store](https://apps.apple.com/ca/app/suhuf-%D8%B5%D8%AD%D9%81/id6748069773) | [Play Store](https://play.google.com/store/apps/details?id=com.aqtar.suhuf_app)
+📱 [App Store](https://apps.apple.com/ca/app/suhuf-%D8%B5%D8%AD%D9%81/id6748069773) | [Play Store](https://play.google.com/store/apps/details?id=com.aqtar.suhuf_app)
 
 ---
 
